@@ -1,0 +1,10 @@
+Tugas 1
+1. Buatlah program sederhana yang dapat mengecek apakah huruf yang dimasukan
+
+adalah vocal atau konsonan
+
+2. Buatlah Program python dengan menggunakan conditional statement untuk mencek
+
+apakah suatu list tersebut merupakan bilangan ganjil atau genap. Jika bilangan
+
+tersebut ganjil, apakah bilangan tersebut bisa dibagi 3 atau tidak.
